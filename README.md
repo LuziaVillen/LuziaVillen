@@ -1,4 +1,4 @@
-### Hi ✋
+### Hi, I'm Luzia.
 ### 🔭 I'm currently working on Luxes Launcher (https://luxes.live).
 ### 🌱 Languages I know C#, HTML, CSS.
 ### 🌱 I've been coding for 2 years (So I'm not good at all.)
